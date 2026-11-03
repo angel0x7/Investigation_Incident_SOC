@@ -127,9 +127,8 @@ La liste complète (avec hashs) est disponible dans la section 7 du rapport.
 ```
 .
 ├── README.md
-├── docs/
-│   ├── Rapport_Incident_Cybersecurite.pdf   # Rapport complet
-│   └── SOC-Fundamentals_Projet.docx         # Énoncé du projet
+├── Rapport_Incident_Cybersecurite.pdf   # Rapport complet
+├── SOC-Fundamentals_Projet.docx         # Énoncé du projet
 └── logs/                                    # (optionnel) .evtx / CSV, non versionnés
     ├── AD01/
     ├── SRV01/
